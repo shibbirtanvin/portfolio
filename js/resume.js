@@ -29,7 +29,7 @@
 
   $(function () {
     typed.typed({
-      strings: ["PhD Candidate at Iowa State University in Academic Job Market"],
+      strings: ["Assistant Professor at Texas State University"],
       typeSpeed: 100,
       loop: true,
       showCursor: false
